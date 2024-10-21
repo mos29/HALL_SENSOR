@@ -7,3 +7,6 @@ Its circuit diagram is at link below :
 
 https://www.utmel.com/components/a3144-hall-effect-sensor-datasheet-circuit-and-pinout?id=828
 
+Its datasheet:
+https://win.adrirobot.it/datasheet/speciali/pdf/OH44E-e_sensore-hall.pdf
+
